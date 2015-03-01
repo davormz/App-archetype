@@ -1,2 +1,2 @@
 # App-archetype
-General Java application using maven archetype
+General Java application archetype using maven.
